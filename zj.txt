@@ -1,0 +1,120 @@
+||i.snssdk.com^$important
+||pull-f5.flive.douyincdn.com^$important
+||pull-rtmp-l6-cny.douyincdn.com^$important
+||pull-flv-l6.douyincdn.com^$important
+||pull-rtmp-l1-cny.douyincdn.com^$important
+||pull-flv-f1.douyincdn.com^$important
+||pull-flv-l1.ixigua.com^$important
+||pull-l3-cny.douyincdn.com^$important
+||pull-lls-f6.douyincdn.com^$important
+||v5lite.douyinvod.com^$important
+@@||ifsk2.tanx.com^$important
+||gecko.snssdk.com^$important
+@@||h-adashx.ut.taobao.com^$important
+@@||szlong.weixin.qq.com^$important
+@@||audid-api.taobao.com^$important
+@@||acs.m.taobao.com^$important
+@@||blackhole.m.jd.com^$important
+@@||connect.rom.miui.com
+||ug.snssdk.com^$important
+||upgrade.ptbftv.gitv.tv^$important
+||self.events.data.microsoft.com^$important
+||sapphire.bingviz.com^$important
+||config.edge.skype.com^$important
+||c.bingapis.com^$important
+||edge-safety-service.trafficmanager.net^$important
+||edge.microsoft.com^$important
+127.0.0.1 log.snssdk.com
+127.0.0.1 xlog.snssdk.com
+127.0.0.1 i.snssdk.com
+127.0.0.1 aweme.snssdk.com
+127.0.0.1 lf.snssdk.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 api.amemv.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 mon.snssdk.com
+127.0.0.1 effect.snssdk.com
+127.0.0.1 hotsoon.snssdk.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 iu.snssdk.com
+127.0.0.1 v1-dy.ixigua.com
+127.0.0.1 v2-dy.ixigua.com
+127.0.0.1 v3-dy.ixigua.com
+127.0.0.1 v4-dy.ixigua.com
+127.0.0.1 v5-dy.ixigua.com
+127.0.0.1 v6-dy.ixigua.com
+127.0.0.1 v7-dy.ixigua.com
+127.0.0.1 v8-dy.ixigua.com
+127.0.0.1 v9-dy.ixigua.com
+127.0.0.1 v1.pstatp.com
+127.0.0.1 v2.pstatp.com
+127.0.0.1 v3.pstatp.com
+127.0.0.1 v4.pstatp.com
+127.0.0.1 v5.pstatp.com
+127.0.0.1 v6.pstatp.com
+127.0.0.1 v7.pstatp.com
+127.0.0.1 v8.pstatp.com
+127.0.0.1 v9.pstatp.com
+127.0.0.1 v1-dy-x.ixigua.com
+127.0.0.1 v2-dy-x.ixigua.com
+127.0.0.1 v3-dy-x.ixigua.com
+127.0.0.1 v4-dy-x.ixigua.com
+127.0.0.1 v5-dy-x.ixigua.com
+127.0.0.1 v6-dy-x.ixigua.com
+127.0.0.1 v7-dy-x.ixigua.com
+127.0.0.1 v8-dy-x.ixigua.com
+127.0.0.1 v9-dy-x.ixigua.com
+127.0.0.1 v1-dy-y.ixigua.com
+127.0.0.1 v2-dy-y.ixigua.com
+127.0.0.1 v3-dy-y.ixigua.com
+127.0.0.1 v4-dy-y.ixigua.com
+127.0.0.1 v5-dy-y.ixigua.com
+127.0.0.1 v6-dy-y.ixigua.com
+127.0.0.1 v7-dy-y.ixigua.com
+127.0.0.1 v8-dy-y.ixigua.com
+127.0.0.1 v9-dy-y.ixigua.com
+127.0.0.1 v1-dy.ixiguavideo.com
+127.0.0.1 v2-dy.ixiguavideo.com
+127.0.0.1 v3-dy.ixiguavideo.com
+127.0.0.1 v4-dy.ixiguavideo.com
+127.0.0.1 v5-dy.ixiguavideo.com
+127.0.0.1 v6-dy.ixiguavideo.com
+127.0.0.1 v7-dy.ixiguavideo.com
+127.0.0.1 v8-dy.ixiguavideo.com
+127.0.0.1 v9-dy.ixiguavideo.com
+127.0.0.1 v1-dy-z.ixigua.com
+127.0.0.1 v2-dy-z.ixigua.com
+127.0.0.1 v3-dy-z.ixigua.com
+127.0.0.1 v4-dy-z.ixigua.com
+127.0.0.1 v5-dy-z.ixigua.com
+127.0.0.1 v6-dy-z.ixigua.com
+127.0.0.1 v7-dy-z.ixigua.com
+127.0.0.1 v8-dy-z.ixigua.com
+127.0.0.1 v9-dy-z.ixigua.com
+@@||5gnanjing.speedtest.jsinfo.net.prod.hosts.ooklaserver.net^$importantet
+! 2022-04-21 https://www.lvbby.com
+||mc.nvshennv.bar/ad/newbbs/20220105_1340_680.png$image
+||www.lvbby.com/template/xinrui_iuni_mobile/touch/images/img/closApp.png$image
+||mc.nvshennv.bar/ad/newbbs/20220410_1648_458.gif$image
+||www.lvbby.com/static/image/common//forum.gif$image
+||www.lvbby.com/template/xinrui_iuni_mobile/touch/images/img/cb_02.png$image
+||images.duioduose.life/21e5421c8b419ba959db5245f315fb34.jpg$image
+||images.duioduose.life/26da7ee48fbfc884b308fc894f3a9d02.jpg$image
+www.lvbby.com##[href="javascript: void(0);"] > p
+www.lvbby.com##[href="javascript:void(0)"] > p
+||images.duioduose.life/91e9476ad08c5459e4c4d504287bd7b2.jpg$image
+||images.duioduose.life/7618657feac8e90ee31b1e2e17400e76.jpg$image
+||images.duioduose.life/7f2287b7a5514b902df327343fc8f4bb.jpg$image
+||images.duioduose.life/92796e81ef21b286a9b6afeda06d09c7.jpg$image
+www.lvbby.com##.wapAbcd8 > ul > li
+www.lvbby.com##.runAppHome.maskBtn
+www.lvbby.com##.global_video_bottom
+www.lvbby.com##.message > div > div > div
+www.lvbby.com###pid292954588 > .postListCon > div
+||images.xiaoyuasan.xyz/8f939b139f7e2a6c524ad25aaaf957c1.gif$image
+||images.xiaoyuasan.xyz/7f2287b7a5514b902df327343fc8f4bb.jpg$image
+||images.xiaoyuasan.xyz/b28bb9bc01ae557d08254a591f63ceba.jpg$image
+||images.xiaoyuasan.xyz/e30f1f678b80f1405fcce15c5e0fb406.gif$image
+||images.xiaoyuasan.xyz/398a65ad591a2484bb29778cc3f8bfe0.jpg$image
+www.lvbby.com##.p_ds_container
+
