@@ -13,7 +13,8 @@
 *##.wapAbcd4 > ul > li
 *##.mainContainer.container > div > p
 *##.mainContainer.container > div > div > ul > li > [href="javascript: void(0);"]
-*##div:nth-of-type(4)
+*##[src="https://images.yepaoo.xyz/464a3fbea303f9114cbe0b1bdcc6ec9e.gif"]
+
 
 ! 2022-09-03 http://2233ht.com
 *###topBox
