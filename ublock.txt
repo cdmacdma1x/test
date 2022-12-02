@@ -13,6 +13,7 @@
 *##.wapAbcd4 > ul > li
 *##.mainContainer.container > div > p
 *##.mainContainer.container > div > div > ul > li > [href="javascript: void(0);"]
+*##div:nth-of-type(4)
 
 ! 2022-09-03 http://2233ht.com
 *###topBox
